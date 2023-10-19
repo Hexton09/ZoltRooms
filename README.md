@@ -10,5 +10,11 @@ built with -
 3. Material UI
 
 
+# To Go inside the folder
+```
+cd Hotel-Booking-WebApp-main
+```
 # To Execute
+```
 yarn run dev
+```
