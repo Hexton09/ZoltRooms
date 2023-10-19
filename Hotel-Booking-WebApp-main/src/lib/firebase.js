@@ -5,14 +5,14 @@ import { getStorage } from "firebase/storage";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAfRlKN9KKz6B94x4CrLbhVrcjrSq9PhR0",
-  authDomain: "hexton09.firebaseapp.com",
-  databaseURL: "https://hexton09-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "hexton09",
-  storageBucket: "hexton09.appspot.com",
-  messagingSenderId: "565975418232",
-  appId: "1:565975418232:web:f4accbed05dbc000f3b48d",
-  measurementId: "G-LHY1CGD5KB"
+  apiKey: "API KEY",
+  authDomain: "Domain",
+  databaseURL: "DatabaseURl",
+  projectId: "projectID",
+  storageBucket: "Bucket",
+  messagingSenderId: "ID",
+  appId: "appID",
+  measurementId: "ID"
 };
 
 // Initialize Firebase
