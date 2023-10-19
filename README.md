@@ -8,6 +8,10 @@
 cd Hotel-Booking-WebApp-main
 ```
 # To Execute
+````
+Go to
+cd Hotel-Booking-WebApp-main/src/lib
+````
 ```
 yarn run dev
 ```
