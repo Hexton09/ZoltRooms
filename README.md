@@ -7,14 +7,14 @@ Go to
 ````
 cd Hotel-Booking-WebApp-main/src/lib
 ````
-``
+```
 And add your Firebase Config details
-``
+```
 # To execute
 Go to
-``
+```
 cd Hotel-Booking-WebApp-main
-``
+```
 ```
 yarn run dev
 ```
