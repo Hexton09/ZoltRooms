@@ -16,7 +16,7 @@ firebase.js
 ````
 And add your Firebase Config details
 
-# To execute
+# To execute locally
 Go to
 ````
 cd Hotel-Booking-WebApp-main
@@ -24,6 +24,16 @@ cd Hotel-Booking-WebApp-main
 ````
 yarn run dev
 ````
+# To deploy on Azure
+* Build and store the docker image of the project in dockerhub
+* Go to Azure app service -> Web app
+* Select Docker Container
+* Give it a name
+* Go to Docker
+* Select image source as dockerhub
+* Add your image and tag
+* And Deploy
+* Open the link in browser to access it
 
 # Built using
 
