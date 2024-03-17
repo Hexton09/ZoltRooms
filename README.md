@@ -22,6 +22,7 @@ Go to
 cd Hotel-Booking-WebApp-main
 ````
 ````
+npm install vite
 yarn run dev
 ````
 # To deploy on Azure
