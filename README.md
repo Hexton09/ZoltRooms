@@ -23,7 +23,13 @@ cd Hotel-Booking-WebApp-main
 ````
 ````
 npm install vite
+````
+````
 yarn run dev
+````
+or
+````
+npm run dev
 ````
 # To deploy on Azure
 * Build and store the docker image of the project in dockerhub
