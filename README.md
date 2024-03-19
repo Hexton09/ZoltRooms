@@ -6,6 +6,8 @@
 * Npm
 * Vite
 * firebase Project
+# Application Architecture
+![image](https://github.com/Hexton09/BookStay/assets/98824774/f2f995e8-4706-4e6a-9c6e-39944ea26e9a)
 
 # Set-up
 Go to
