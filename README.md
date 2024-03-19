@@ -58,6 +58,12 @@ npm run dev
 ````
 sudo vite --host 0.0.0.0 --port 80
 ````
+* Open the ip of the instance to see the application running
+* If you want you can attach various other services on top to it
+
+# Here's what i used for deployment
+![image](https://github.com/Hexton09/BookStay/assets/98824774/2244ee2a-bcac-48dc-9bcf-8670c3a8970c)
+
 # Built using
 
 1. React.js
