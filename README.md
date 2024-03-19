@@ -5,6 +5,7 @@
 * Yarn
 * Npm
 * Vite
+* firebase Project
 
 # Set-up
 Go to
@@ -15,8 +16,8 @@ Open the file
 ````
 firebase.js
 ````
-And add your Firebase Config details
-
+And add your Firebase Project Config details
+Firebase-> Console -> Project Settings -> General -> Your apps -> Copy the Script and paste it
 # To execute locally
 Go to
 ````
