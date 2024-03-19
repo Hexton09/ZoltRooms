@@ -47,7 +47,9 @@ npm run dev
 * Add your image and tag
 * And Deploy
 * Open the link in browser to access it
-
+# To Deploy on AWS
+* Create an EC2 instance (Ubuntu).
+* 
 # Built using
 
 1. React.js
