@@ -49,7 +49,15 @@ npm run dev
 * Open the link in browser to access it
 # To Deploy on AWS
 * Create an EC2 instance (Ubuntu).
-* 
+* Connect to the instance using the method of your choice.
+* Install all the pre-requsites (Node,vite etc)
+* Clone the repo into the instance.
+* Go inside the Project Directory
+* And npm build
+* And then run using npm or vite
+````
+sudo vite --host 0.0.0.0 --port 80
+````
 # Built using
 
 1. React.js
