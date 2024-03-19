@@ -23,6 +23,8 @@ cd Hotel-Booking-WebApp-main
 ````
 ````
 npm install vite
+````
+````
 npm run build
 ````
 ````
