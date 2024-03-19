@@ -60,7 +60,7 @@ npm run dev
 ````
 sudo vite --host 0.0.0.0 --port 80
 ````
-* Open the ip of the instance to see the application running
+* Open the public ip of the instance to see the application running
 * If you want you can attach various other services on top to it
 
 # Here's what i used for deployment
