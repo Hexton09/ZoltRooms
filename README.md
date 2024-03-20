@@ -27,7 +27,7 @@ Go to
 cd Hotel-Booking-WebApp-main
 ````
 ````
-npm install vite
+npm install
 ````
 ````
 npm run build
