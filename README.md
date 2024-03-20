@@ -62,7 +62,8 @@ sudo vite --host 0.0.0.0 --port 80
 ````
 * Open the public ip of the instance to see the application running
 * If you want you can attach various other services on top to it
-
+# To deploy on vercel
+* Simply upload the project using github to vercel and it will deploy it
 # Here's what i used for deployment
 ![image](https://github.com/Hexton09/BookStay/assets/98824774/2244ee2a-bcac-48dc-9bcf-8670c3a8970c)
 
