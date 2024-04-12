@@ -39,7 +39,7 @@ export default function Login() {
         maxWidth="md"
       >
         <Typography textAlign={"center"} variant="h4" sx={{ marginBottom: 4 }}>
-          Welcome to BookStay
+          Welcome to ZoltRooms
         </Typography>
         <Button onClick={handleLogin} variant="outlined" color="primary">
           Login with google
