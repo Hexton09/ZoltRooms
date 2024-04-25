@@ -66,7 +66,8 @@ sudo vite --host 0.0.0.0 --port 80
 # To deploy on vercel
 * Simply upload the project using github to vercel and it will deploy it but make sure to select the directory where package.json is present
 # Here's what i used for deployment
-![image](https://github.com/Hexton09/BookStay/assets/98824774/2244ee2a-bcac-48dc-9bcf-8670c3a8970c)
+![image](https://github.com/Hexton09/ZoltRooms/assets/98824774/32054b71-f5d8-4415-a26b-a1537b000d4e)
+
 
 # Built using
 
