@@ -4,14 +4,14 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "**********",
-  authDomain: "**********",
-  databaseURL: "**********",
-  projectId: "**********",
-  storageBucket: "**********",
-  messagingSenderId: "**********",
-  appId: "**********",
-  measurementId: "**********"
+  apiKey: "AIzaSyAfRlKN9KKz6B94x4CrLbhVrcjrSq9PhR0",
+  authDomain: "hexton09.firebaseapp.com",
+  databaseURL: "https://hexton09-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "hexton09",
+  storageBucket: "hexton09.appspot.com",
+  messagingSenderId: "565975418232",
+  appId: "1:565975418232:web:9190326c4255bb62f3b48d",
+  measurementId: "G-QKLH4FME19"
 };
 
 
