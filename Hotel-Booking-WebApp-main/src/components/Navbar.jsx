@@ -58,7 +58,7 @@ export const Navbar = () => {
             component="div"
             fontWeight={"bold"}
           >
-            BookStay
+            ZoltRooms
           </Typography>
           <Box sx={{ display: "flex", gap: 2, alignItems: "center" }}>
             <FormGroup sx={{ display: { xs: "none", md: "flex" } }}>
